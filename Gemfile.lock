@@ -50,6 +50,7 @@ GEM
     bootstrap-will_paginate (0.0.10)
       will_paginate
     builder (3.2.2)
+    byebug (9.0.5)
     carrierwave (0.11.2)
       activemodel (>= 3.2.0)
       activesupport (>= 3.2.0)
@@ -355,7 +356,7 @@ DEPENDENCIES
   bcrypt (= 3.1.11)
   bootstrap-sass (= 3.3.6)
   bootstrap-will_paginate (= 0.0.10)
-  byebug (= 9.0.0)
+  byebug
   carrierwave (= 0.11.2)
   coffee-rails (= 4.2.1)
   database_cleaner (~> 1.5, >= 1.5.3)

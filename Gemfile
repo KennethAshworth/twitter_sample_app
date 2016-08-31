@@ -20,7 +20,7 @@ gem 'database_cleaner',        '~> 1.5', '>= 1.5.3'
 
 group :development, :test do
   gem 'sqlite3', '1.3.11'
-  gem 'byebug',  '9.0.0', platform: :mri
+  gem 'byebug'
 end
 
 group :development do
